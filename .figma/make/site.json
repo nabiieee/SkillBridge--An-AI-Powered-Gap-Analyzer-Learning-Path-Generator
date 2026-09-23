@@ -1,0 +1,10 @@
+{
+  "description": "Analyzes users' skills via CVs and assessments to generate personalized AI-driven learning paths that optimize skill development efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
